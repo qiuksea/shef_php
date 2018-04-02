@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "f00tba11";
+$password = "";
 $dbname = "shef_finance";
 
 // Create connection
